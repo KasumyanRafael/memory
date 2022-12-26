@@ -1,0 +1,12 @@
+.table{
+    display:grid;
+    grid-template-columns: 110px 110px 110px;
+}
+.card{
+    color: blue;
+    font-size: 36px;
+    background-color: blue;
+    width:100px;
+    height:100px;
+    margin:10px;
+}
